@@ -14,11 +14,10 @@ body {
 #main {width: 900px; margin: 10px auto;}
 /* Use the 'Supermercado One' font at 45px (colored #5d4037) for the restaurant name. */
 
-header {
+h1 {
     font-family: 'Supermercado One';
     font-size: 45px;
     color: #5d4037;
-    display: block;
 }
 
 #menu {columns: 400px 2; column-gap: 100px; 
